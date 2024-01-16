@@ -1,0 +1,20 @@
+img { max-width: 100%; }
+.form-control-lg,
+.btn-lg {
+  font-size: .75rem;
+  @include media-breakpoint-up(sm) {
+    font-size: 1rem;
+  }
+  @include media-breakpoint-up(md) {
+    font-size: 1rem;
+  }
+}
+.form-check-input {
+  margin-top: .2rem;
+}
+a {
+  transition: ease 0.3s;
+  &:hover {
+    text-decoration: none;
+  }
+}

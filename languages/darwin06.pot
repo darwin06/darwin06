@@ -1,0 +1,201 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Darwin06\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-02 23:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:40
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:140
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:144
+msgid "Archive Sidebar"
+msgstr ""
+
+#: functions.php:148
+msgid "Singular Sidebar"
+msgstr ""
+
+#: functions.php:153
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:206
+msgid "Related posts"
+msgstr ""
+
+#: functions.php:217
+msgid "<h2>No Related Posts</h2>"
+msgstr ""
+
+#. Name of the template
+msgid "Custom Results"
+msgstr ""
+
+#: page-custom-query.php:55
+msgid "Info not found!"
+msgstr ""
+
+#: page-custom-query.php:62 page-propiedades.php:357 inc/components/breadcrumb.php:107
+msgid "Page"
+msgstr ""
+
+#: page-custom-query.php:70 page-propiedades.php:365
+msgid "<< Previous"
+msgstr ""
+
+#: page-custom-query.php:71 page-propiedades.php:366
+msgid "Next >>"
+msgstr ""
+
+#. Name of the template
+msgid "WP API info"
+msgstr ""
+
+#: 404.php:10
+msgid "Search properties"
+msgstr ""
+
+#: archive.php:33
+msgid "Back"
+msgstr ""
+
+#: archive.php:34
+msgid "Onward"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: search-darwin.php:24
+#, php-format
+msgid "Search results for: %1s "
+msgstr ""
+
+#: search-darwin.php:39 search.php:6
+msgid "Search results for: "
+msgstr ""
+
+#: search-darwin.php:77
+msgid "No Results"
+msgstr ""
+
+#: home.php:14
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: search.php:28 page-attachment-results.php:40 front-page.php:26
+msgid "Nothing to display!"
+msgstr ""
+
+#. Name of the template
+msgid "Attachment results"
+msgstr ""
+
+#. Name of the template
+msgid "Fetch API info"
+msgstr ""
+
+#: class-wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr ""
+
+#. Name of the template
+#: page-propiedades.php:279
+msgid "Properties"
+msgstr ""
+
+#: page-propiedades.php:236
+msgid "All"
+msgstr ""
+
+#: page-propiedades.php:265
+msgid "Ascendant"
+msgstr ""
+
+#: page-propiedades.php:273
+msgid "Descendent"
+msgstr ""
+
+#: page-propiedades.php:341
+msgid "View more"
+msgstr ""
+
+#: page-propiedades.php:350
+msgid "Info not found"
+msgstr ""
+
+#: searchform.php:22 searchform.php:40
+msgid "Search"
+msgstr ""
+
+#: searchform.php:24
+msgid "Type: "
+msgstr ""
+
+#: searchform.php:38
+msgid "Year"
+msgstr ""
+
+#: inc/components/custom-card.php:34
+msgid "Read More"
+msgstr ""
+
+#. Name of the theme
+msgid "Darwin06"
+msgstr ""
+
+#. Description of the theme
+msgid "A theme for Web Develop"
+msgstr ""
+
+#. URI of the theme
+msgid "https://nucleora.com"
+msgstr ""
+
+#. Author of the theme
+msgid "Darwin Mateos"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://darwin06.github.io"
+msgstr ""

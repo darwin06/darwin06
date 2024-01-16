@@ -1,0 +1,10 @@
+.nav-header {
+  font-weight: 500;
+  a {
+    color: $third;
+
+    &:hover {
+      color: lighten($third, 15);
+    }
+  }
+}

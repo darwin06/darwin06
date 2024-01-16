@@ -1,0 +1,58 @@
+body {
+  font-family     : 'Barlow Semi Condensed', sans-serif;
+  font-size       : 16px;
+  font-display    : swap;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+
+  .bg-white & {
+    color: $primary;
+  }
+}
+
+h1,
+.h1 {
+  font-size: 12rem;
+}
+h2,
+.h2 {
+  font-size     : 3.4375rem;
+  font-weight: 400;
+  line-height   : 4.125rem;
+  letter-spacing: 0.156875rem;
+
+  span {
+    color: $secondary;
+  }
+}
+
+
+#main-footer {
+  color: $jet;
+
+  a {
+    color: $jet;
+  }
+
+  .footer-top-container {
+    a {
+      color: $white;
+    }
+
+    a:hover {
+      color: darken($white, 25);
+    }
+  }
+
+  .footer-nav {
+    font-weight: 500;
+    text-transform: uppercase;
+
+    a { padding: 10px; }
+  }
+}
